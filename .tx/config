@@ -18,3 +18,4 @@ file_filter = intl/js/tvheadend.js.<lang>.po
 source_file = intl/js/tvheadend.js.pot
 source_lang = en
 type = PO
+tx admin 
